@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Demo Biometric Authentication</string>
-    <string name="launch_biometric_dialog">Launch Biometric Dialog</string>
+    <string name="launch_biometric_dialog">Launch Biometric Prompt</string>
+    <string name="launch_confirmation_protected">Launch Confirmation Prompt</string>
 </resources>
